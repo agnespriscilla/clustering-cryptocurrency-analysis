@@ -8,7 +8,7 @@ Identifying behavioral patterns in cryptocurrency markets using unsupervised mac
 
 ## Overview
 
-This project applies and compares four unsupervised clustering algorithms to identify distinct behavioral patterns across major cryptocurrencies. By analyzing historical market data, the study aims to uncover recurring market regimes — such as bullish, bearish, or sideways trends — that can support data-driven decision making in financial markets.
+This project applies and compares four unsupervised clustering algorithms to identify distinct behavioral patterns across major cryptocurrencies. By analyzing historical market data, the study aims to uncover recurring market regimes such as bullish, bearish, or sideways trends that can support data-driven decision making in financial markets.
 
 **Cryptocurrencies Analyzed:** Bitcoin (BTC) · Ethereum (ETH) · Solana (SOL) · Ripple (XRP)
 
@@ -116,6 +116,6 @@ jupyter notebook "clustering cryptocurrency analysis.ipynb"
 **Agnes Priscilla Sekartaji Hadikusuma**
 S1 Teknik Informatika · Institut Teknologi Sepuluh Nopember (ITS) Surabaya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnespriscilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnespriscilla33)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/agnespriscilla)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agnes.priscilla33@gmail.com)
